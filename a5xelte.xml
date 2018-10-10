@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <VersionName>dotOS-O-v2.5-a5xelte-OFFICIAL-20180917</VersionName>
-  <VersionNumber type="integer">20180917</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/a5xelte/dotOS-O-v2.5-a5xelte-OFFICIAL-20180917.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.5-a5xelte-OFFICIAL-20181010</VersionName>
+  <VersionNumber type="integer">201801010</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/a5xelte/dotOS-O-v2.5-a5xelte-OFFICIAL-20181010.zip</DirectUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>f39d4c4bc1748d05c29f4115c3944d1c</CheckMD5>
-  <FileSize type="integer">311261795</FileSize>
+  <CheckMD5>816737d8f70d6333945c7982118a38a4</CheckMD5>
+  <FileSize type="integer">314141988</FileSize>
   <Changelog>
 	<System>dotOS 2.5 Final Release</System>
 	<Settings>Bug Fixes</Settings>
 	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
-	<SecurityPatch>September 05th 2018</SecurityPatch>
+	<SecurityPatch>October 05th 2018</SecurityPatch>
   </Changelog>
 </ROM>
