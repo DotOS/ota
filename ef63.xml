@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <VersionName>dotOS-O-v2.5-ef63-OFFICIAL-20180922</VersionName>
-  <VersionNumber type="integer">20180922</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/ef63/dotOS-O-v2.5-ef63-OFFICIAL-20180922.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.5-ef63-OFFICIAL-20181028</VersionName>
+  <VersionNumber type="integer">20181028</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/ef63/dotOS-O-v2.5-ef63-OFFICIAL-20181028.zip</DirectUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>19c685fcae6ab5b163f238d375fa3894</CheckMD5>
-  <FileSize type="integer">337854700</FileSize>
+  <CheckMD5>876dbdc6eb90a876432b8647c3b54f5a</CheckMD5>
+  <FileSize type="integer">338719684</FileSize>
   <Changelog>
 	<System>dotOS 2.5 Final Release</System>
 	<Settings>Bug Fixes</Settings>
-	<Device>Fix ADs video crash</Device>
 	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
-	<SecurityPatch>September 05th 2018</SecurityPatch>
+	<SecurityPatch>Oct 05th 2018</SecurityPatch>
   </Changelog>
 </ROM>
