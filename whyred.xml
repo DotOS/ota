@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <VersionName>dotOS-O-v2.5-whyred-OFFICIAL-20180919</VersionName>
-  <VersionNumber type="integer">20180914</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/whyred/dotOS-O-v2.5-whyred-OFFICIAL-20180919.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.5-whyred-OFFICIAL-20181127</VersionName>
+  <VersionNumber type="integer">20181127</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/whyred/dotOS-O-v2.5-whyred-OFFICIAL-20181127.zip</DirectUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>d18f66e5e8fa77e50e7ce5a7b81ef351</CheckMD5>
-  <FileSize type="integer">751678130</FileSize>
+  <CheckMD5>e0ab126279de528a216572eb00110701</CheckMD5>
+  <FileSize type="integer">752415708</FileSize>
   <Changelog>
 	<System>dotOS 2.5 Final Release</System>
 	<Settings>Bug Fixes</Settings>
 	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
-	<SecurityPatch>September 05th 2018</SecurityPatch>
+	<SecurityPatch>November 05th 2018</SecurityPatch>
   </Changelog>
 </ROM>
